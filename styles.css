@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Youth;
+    src: url("YouthBD-Black.a869a4aaa1867d2eefab.otf") format("opentype");
+}
+
 body {
     margin: 0;
     font-family: Arial, sans-serif;
